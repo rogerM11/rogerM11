@@ -14,7 +14,7 @@ Here are some technologies I'm working with:
 
 - **Programming languages:** Python, PHP, C#, SQL, CSS, and JavaScrip (currently learning)
 - **Frameworks & libraries:** Bootstrap 5
-- **Relational databases:** SQL Server
+- **Relational databases:** SQL Server, MySQL
 - **Non-relational databases:** MongoDB, Cassandra (basic knowledge)
 
 
